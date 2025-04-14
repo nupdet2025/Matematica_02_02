@@ -1,0 +1,12 @@
+{
+  "name": "MATEMATICA_02_02",
+  "short_name": "MATEMATICA_02_02",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "any",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
